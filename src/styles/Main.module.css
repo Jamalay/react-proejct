@@ -1,0 +1,46 @@
+.count_p_size{
+    font-size: 288px;
+    width: 182px;
+    margin: auto;
+    color: #F27C0F;
+}
+
+main{
+    margin-top: 3em;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttons_div{
+    padding-top: 2em;
+    max-width: 770px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    border-radius: 5px;
+    border:  none;
+    width: 200px;
+    height: 58px;
+}
+
+.orange_button{
+    background-color: #F27C0F;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.blue_button{
+    background-color: #003399;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.gray_button{
+    background-color: #E5E5E5;
+    font-size: 24px;
+}

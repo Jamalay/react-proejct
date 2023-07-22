@@ -1,0 +1,17 @@
+.footer_menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+}
+
+footer{
+    padding-top: 5em;
+    box-sizing: border-box;
+    display: flex;
+    width: 770px;
+    margin: auto;
+    font-size: 16px;
+    align-items: center;
+    justify-content: space-between;
+}
