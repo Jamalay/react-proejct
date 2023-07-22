@@ -15,3 +15,7 @@ footer{
     align-items: center;
     justify-content: space-between;
 }
+
+p{
+    color: #00000080;
+}

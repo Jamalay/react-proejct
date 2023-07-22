@@ -1,5 +1,5 @@
 import React, { useState } from "react";
 
 export default function App() {
-    const [count, setCount] = useState(0)
+    let [count, setCount] = useState(0)
 }

@@ -8,12 +8,12 @@ const Footer = () => {
         <footer>
             <div className={style.footer_menu}>
                 <p><img src={logo}></img></p>
-                <p>Партнерам</p>
-                <p>Разработчикам</p>
-                <p>Вакансии</p>
+                <p><a>Партнерам</a></p>
+                <p><a>Разработчикам</a></p>
+                <p><a>Вакансии</a></p>
             </div>
             <div>
-                <p>ООО “интукод”, 2020г.</p>
+                <p><a>ООО “интукод”, 2020г.</a></p>
             </div>
         </footer>
     )
